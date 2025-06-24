@@ -9,7 +9,7 @@ This repository includes everything related to the ResolveNow: Your Platform for
 |🧩 Resource	|📝 Description |🔗 Link / Location|
 |-------------|---------------|-------------------|
 |💻 Source Code|	Complete frontend and backend implementation|	[View Code](<./Project files/>)|
-|📕 Documentation	|Detailed project report with system description|	[view PDF](./Documents/complaint_registery_project_documentation.pdf)|
+|📕 Documentation	|Detailed project report with system description|	[view PDF](./Document/complaint_registery_project_documentation.pdf)|
 |🎬 Demo Video	|Walkthrough of the project's working features|	[Watch Video](<./VideoDemo/demo.mp4/>)|
 
 -----
