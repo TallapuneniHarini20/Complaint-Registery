@@ -3,7 +3,7 @@ GitHub does not preview large video files.
 
 To watch the demo video from GitHub itself:
 
-1. Click on the video file link here: [video demo
+1. Click on the video file link here: [Demo video
 ](https://github.com/TallapuneniHarini20/Complaint-Registery/blob/main/Video%20Demo/complaint-registery-video-demo.mp4)
 
 
